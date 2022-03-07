@@ -17,8 +17,7 @@ Note: our model is trained on NVIDIA GPU (A100).
 - opts.py is all the necessary parameters for our method (e.g. learning rate and data loading path and so on).
 - Execute train.py
 
-Note that, for the current version. test.py is nor required as the code calls the test function every iteration from within to visualize the performance difference between the baseline and the our method. However, we also provide a separate test.py file for visualising the test set. For that, the instructions can be found below.
-
+Note that, for the current version. test.py is nor required as the code calls the test function every iteration from within to visualize the performance difference between the baseline and the our method. 
 - Download trained models from [here](https://drive.google.com/drive/folders/1ye8Vev8_fdMvdfHr5FIFSb5tcwtYHlnv) and place inside the directory ./models/
 - Download datasets from [here](https://drive.google.com/drive/folders/1eejPrqM2hWPxSfb0gUhu-F4FD0rhO7sp?usp=sharing) and place test signals in the subdirectories of ./Data/Test/
 - run test.py
