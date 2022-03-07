@@ -1,4 +1,4 @@
-# A multi-task learning for cavitation detection and cavitation intensity recognition of valve acoustic signals (1D DHRN)
+# A multi-task learning for cavitation detection and cavitation intensity recognition of valve acoustic signals 
 [[arXiv]](https://arxiv.org/abs/2203.01118)
 
 ![img1](https://github.com/CavitationDetection/1-D-DHRN/blob/main/figs/1-D%20DHRN.png)
