@@ -31,7 +31,7 @@ Note that, for the current version. test.py is nor required as the code calls th
 
 [08.03.2022] We upload all source codes for our method. And we add a link to our paper on the arXiv.
 
-[19.04.2022] Our paper was accepted by the Engineering Applications of Artificial Intelligence (EAAI). The Impact Factor of this journal is 6.212, ranking it 7 out of 91 in Engineering, Multidisciplinary.
+[19.04.2022] Our paper was accepted by the [[Engineering Applications of Artificial Intelligence (EAAI)]](https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence). The Impact Factor of this journal is 6.212, ranking it 7 out of 91 in Engineering, Multidisciplinary.
 
 
 For any queries, please feel free to contact YuSha et al. through yusha20211001@gmail.com
