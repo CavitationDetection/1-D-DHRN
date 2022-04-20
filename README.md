@@ -29,9 +29,9 @@ Note that, for the current version. test.py is nor required as the code calls th
 ## Updates
 [01.03.2022] We submit preprinted versions on the arXiv.
 
-[08.03.2022] We upload all source codes for our method. And we add a link to our paper.
+[08.03.2022] We upload all source codes for our method. And we add a link to our paper on the arXiv.
 
-[19.04.2022] We upload all source codes for our method. And we add a link to our paper (Measurement Journal and arXiv).
+[19.04.2022] Our paper was accepted by the journal Engineering Applications of Artificial Intelligence (EAAI). The Impact Factor of this journal is 6.212, ranking it 7 out of 91 in Engineering, Multidisciplinary.
 
 
 For any queries, please feel free to contact YuSha et al. through yusha20211001@gmail.com
