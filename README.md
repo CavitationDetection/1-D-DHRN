@@ -40,10 +40,13 @@ For any queries, please feel free to contact YuSha et al. through yusha20211001@
 ## Citation
 If you find our work useful in your research, please consider citing:
 ```
-@article{sha2022multi,
-  title={A multi-task learning for cavitation detection and cavitation intensity recognition of valve acoustic signals},
-  author={Sha, Yu and Faber, Johannes and Gou, Shuiping and Liu, Bo and Li, Wei and Shramm, Stefan and Stoecker, Horst and Steckenreiter, Thomas and Vnucec, Domagoj and Wetzstein, Nadine and Widl Andreas and Zhou Kai},
-  journal={arXiv preprint arXiv:2203.01118},
-  year={2022}
+@article{SHA2022104904,
+title = {A multi-task learning for cavitation detection and cavitation intensity recognition of valve acoustic signals},
+author = {Yu Sha and Johannes Faber and Shuiping Gou and Bo Liu and Wei Li and Stefan Schramm and Horst Stoecker and Thomas Steckenreiter and Domagoj Vnucec and Nadine Wetzstein and Andreas Widl and Kai Zhou},
+journal = {Engineering Applications of Artificial Intelligence},
+volume = {113},
+pages = {104904},
+year = {2022},
 }
-```
+'''
+
