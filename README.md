@@ -1,5 +1,5 @@
 # A multi-task learning for cavitation detection and cavitation intensity recognition of valve acoustic signals 
-[[Project Page]](https://www.sciencedirect.com/science/article/pii/S0952197622001361?dgcid=coauthor) || [[arXiv]](https://arxiv.org/abs/2203.01118)
+[[Project Page]](https://www.sciencedirect.com/science/article/pii/S0952197622001361) || [[arXiv]](https://arxiv.org/abs/2203.01118)
 
 ![img1](https://github.com/CavitationDetection/1-D-DHRN/blob/main/figs/1-D%20DHRN.png)
 
@@ -33,7 +33,7 @@ Note that, for the current version. test.py is nor required as the code calls th
 
 [19.04.2022] Our paper was accepted by the [[Engineering Applications of Artificial Intelligence (EAAI)]](https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence). The Impact Factor of this journal is 6.212, ranking it 7 out of 91 in Engineering, Multidisciplinary.
 
-[10.05.2022] Our paper is now available online. And the link is [here](https://www.sciencedirect.com/science/article/pii/S0952197622001361?dgcid=coauthor).
+[10.05.2022] Our paper is now available online. And the link is [here](https://www.sciencedirect.com/science/article/pii/S0952197622001361).
 
 For any queries, please feel free to contact YuSha et al. through yusha20211001@gmail.com
 
